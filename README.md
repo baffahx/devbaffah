@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @devbaffah
-- 👀 I’m interested in Software Development
+- 👋 Hi, I’m baffah
+- 👀 With interest in Software Development
